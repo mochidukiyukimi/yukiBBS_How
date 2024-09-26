@@ -6,6 +6,8 @@
 　・昇格基準
 　・コマンド一覧
 
+――――――――――――――――――――――――――
+
 【利用規約】
 
 1.用語の定義
@@ -212,9 +214,18 @@ Yuki BBS wikiはこちら→https://sites.google.com/view/yukibbs-wiki/
 　　・/manager
 　　・/moderator
 　　・/dismoderator
+　　・/ip
 　　・/ban
 　　・/kill
 　　・/prevent
 　　・/stop
 　　・/revive
 　　[補足]バトルスタジアムでの投稿削除コマンド（/del、/destroy、/clear）はサミット以上が使用可能です。
+
+　<運営のみ使用可能>
+　　・/prohibit
+　　・/summit
+　　・/dissumit
+　　・/range
+　　・/max
+　　・/reduce
