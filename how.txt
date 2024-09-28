@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <h2>【このページの内容】</h2>
 <br>
 &emsp;・利用規約
