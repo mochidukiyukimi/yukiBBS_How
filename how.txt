@@ -211,15 +211,14 @@ Yuki BBS wikiはこちら→https://sites.google.com/view/yukibbs-wiki/
 　　・/dismanager　[/dismanager (ID)]のように入力し、マネージャーを剥奪します。
 
 　<サミット以上が使用可能>
-　　・/manager
-　　・/moderator
-　　・/dismoderator
-　　・/ip
-　　・/ban
-　　・/kill
-　　・/prevent
-　　・/stop
-　　・/revive
+　　・/manager　[/manager (ID)]のように入力し、マネージャーを付与します。
+　　・/moderator　[/moderator (ID)]のように入力し、モデレーターを付与します。
+　　・/dismoderator　[/dismoderator (ID)]のように入力し、モデレーターを剥奪します。
+　　・/ban　[/ban (英数字化されたIP)]または[/ban (投稿番号)※雑談のみ使用可能]のように入力し、指定したIPを再起動がかかるか/reviveが実行されるまでbanします。
+　　・/kill [/kill (ID)]のように入力し、指定したIPを再起動がかかるか/reviveが実行されるまで使用不可にします。
+　　・/prevent　解除されるまで青IDが雑談に投稿できなくします。
+　　・/stop　3分間、青IDの投稿を禁止します。
+　　・/revive　/kill及び/banの効果を全て解除します。
 　　[補足]バトルスタジアムでの投稿削除コマンド（/del、/destroy、/clear）はサミット以上が使用可能です。
 
 　<運営のみ使用可能>
