@@ -222,9 +222,13 @@ Yuki BBS wikiはこちら→https://sites.google.com/view/yukibbs-wiki/
 　　[補足]バトルスタジアムでの投稿削除コマンド（/del、/destroy、/clear）はサミット以上が使用可能です。
 
 　<運営のみ使用可能>
-　　・/prohibit
-　　・/summit
-　　・/dissumit
-　　・/range
-　　・/max
-　　・/reduce
+　　・/prohibit　[/prohibit (時間)※最大3h]のように入力し、指定した時間の間青IDは投稿が出来なくなります。
+　　・/summit　[/summit (ID)]のように入力し、サミットを付与します。
+　　・/dissumit　[/dissumit (ID)]のように入力し、サミットを剥奪します。
+　　・/range　[/range (int)]で表示される投稿数を変更できます。
+　　・/max　[/max (int)]で投稿番号の最大数（自動/clearが実行される値）を変更できます。
+　　・/reduce　各権限全体の2%だけを削除します。
+
+――――――――――――――――――――――――――
+
+　使い方に追加してほしい項目がある場合は、掲示板にて運営までお申し付けください。
